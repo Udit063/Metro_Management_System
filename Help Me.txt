@@ -1,0 +1,27 @@
+To run the program successfully, a user must have stations.txt file and creditCards.txt file in the same folder in which
+the program is going to run. If admin.txt is present in the folder ,please delete it before running the program.
+Then follow the given steps:
+Step 1: Compile and run prototype_2.cpp using any c++ compiler( VSCode, CodeBlocks etc.).
+Step 2: You'll be asked to create an admin profile by creating a username and password for the Admin.
+Step 3: Now, you'll see two options 1. Administrator and 2. Customer. Make your choice by entering 1 or 2. You can
+exit the program by entering 3.
+Step 4: According to your choice, a menu will be shown to you( Admin Menu or Customer Menu; Admin menu 
+will require admin username and password to open.) 
+Step 5: A Customer (or Administrator) can make their choice by selecting the options and the program 
+will run accordingly.
+Step 6: After completing their task, a user can exit the program by selecting the EXIT option.
+
+To book a ticket:
+Step 1: START
+Step 2: Select Customer in the opening menu.
+Step 3: Choose Book a ticket option in the Customer Menu.
+Step 4: Enter the name of your current station.
+Step 5: Enter the name of your destination.
+Step 6: You'll be shown the route and the total cost for your journey.
+Step 7: You have to enter 'Y' to proceed.
+Step 8: Now choose either cash or metro card to make your payment.
+Step 9: In case of metro card, you'll be needed to enter your metro card number.
+Step 10:The amount will be deducted fr0m your card balance.
+Step 11: Booking Successful message is printed on the screen.
+Step 12: Exit.
+ 
